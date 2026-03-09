@@ -173,7 +173,7 @@ Linear → 10
 1. Клонировать репозиторий
 
 ```bash
-git clone <repo_url>
+git clone <https://github.com/lonelyrue/mnist-pytorch>
 cd mnist-mlp
 ```
 
@@ -188,6 +188,7 @@ pip install torch torchvision matplotlib pandas scikit-learn
 ```bash
 jupyter notebook
 ```
+(или vs code)
 
 Открыть файл:
 
