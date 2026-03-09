@@ -173,7 +173,7 @@ Linear → 10
 1. Клонировать репозиторий
 
 ```bash
-git clone <https://github.com/lonelyrue/mnist-pytorch>
+git clone https://github.com/lonelyrue/mnist-pytorch
 cd mnist-mlp
 ```
 
